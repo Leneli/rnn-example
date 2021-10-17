@@ -1,0 +1,10 @@
+export const MAIN_SCREEN = 'MainScreen';
+export const SECOND_SCREEN = 'SecondScreen';
+export const THIRD_SCREEN = 'ThirdScreen';
+export const INNER_SCREEN = 'InnerScreen';
+export const INNER_SCREEN2 = 'InnerScreen2';
+export const MODAL_SCREEN = 'ModalScreen';
+export const TOP_BAR_SCREEN = 'TopBarScreen';
+export const LISTENER_SCREEN = 'ListenerScreen';
+export const ANIMATED_SCREEN = 'AnimatedScreen';
+export const OVERLAY = 'Overlay';
